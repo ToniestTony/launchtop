@@ -1,0 +1,25 @@
+{
+    "app_name": "Launch to the top",
+    "main": "index.html",
+    "name": "launchtothetop",
+    "webexe_settings": {
+        "download_dir": "",
+        "force_download": false,
+        "nw_compression_level": 0,
+        "nw_version": "0.57.1",
+        "sdk_build": false,
+        "uncompressed_folder": false,
+        "windows-x64": true
+    },
+    "webkit": {},
+    "window": {
+        "height": 720,
+        "icon": "wheel.png",
+        "id": "Cannon Foddian (13)",
+        "title": "Cannon Foddian (13)",
+        "width": 1280
+    },
+    "dependencies": {
+        "git": "^0.1.5"
+    }
+}
