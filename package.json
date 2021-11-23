@@ -1,0 +1,31 @@
+{
+    "app_name": "Launch to the top",
+    "main": "index.html",
+    "name": "launctothetop",
+    "webexe_settings": {
+        "blacklist": "",
+        "custom_script": "",
+        "download_dir": "",
+        "export_dir": "windows",
+        "force_download": false,
+        "nw_compression_level": 0,
+        "nw_version": "0.57.1",
+        "output_pattern": "",
+        "sdk_build": false,
+        "uncompressed_folder": false,
+        "whitelist": "",
+        "windows-x64": true
+    },
+    "webkit": {},
+    "window": {
+        "exe_icon": "icon.png",
+        "fullscreen": false,
+        "height": 720,
+        "icon": "icon.png",
+        "id": "launch to the top post3",
+        "mac_icon": "icon.png",
+        "resizable": true,
+        "title": "launch to the top post",
+        "width": 1280
+    }
+}
